@@ -1,0 +1,2 @@
+# astrbot_plugin_voice_tags
+让你的bot能在群里发出b动静
